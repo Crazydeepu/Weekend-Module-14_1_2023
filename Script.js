@@ -8,7 +8,7 @@
         let messages = []
 
         if(uname.value === " " || uname == null) {
-            messages.push("Error : Please Make sure All the fields are filled before adding in an employee")
+            messages.push("Error : Please Make sure All the fields are filled before adding in an employe")
         }
 
         if (messages.length>0) {
